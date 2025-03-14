@@ -1,5 +1,5 @@
 body{
-    font-family: Arial,sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 50px;
@@ -9,15 +9,18 @@ body{
       color: white;
       font-size: 150%;
     }
+
   aside a {
     text-decoration: none;
     color: #d70504;
-    font-family: Arial,sans-serif;
-    Font-size: 80%;
+    font-family: Arial, sans-serif;
+    font-size: 80%;
     }
+
   aside a:visited {
     color: orange;
     }
+
   aside a:hover {
     text-decoration: underline;
     }
@@ -26,8 +29,9 @@ body{
       background-color: #bebcdd;
       font-weight: bold;
       text-align: left;
-      padding-left: 10px
+      padding-left: 10px;
     }
+
 header, footer {
       background-color: #333;
       color: #fff;
@@ -38,12 +42,14 @@ header, footer {
 h1 {
   color: #D3D3D3;
     }
+
 h2 {
     color: #333;
     background-color: #bebcdd;
     text-align: left;
-    padding-left: 10px
+    padding-left: 10px;
   }
+
 main {
     padding: 20px;
 
